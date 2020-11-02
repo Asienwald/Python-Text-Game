@@ -1,0 +1,11 @@
+Basic Sword
+Basic Helmet
+Basic Armor
+Basic Greaves
+Basic Leggings
+.
+Guard Helmet
+Guard Greaves
+Guard Leggings
+Guard Armor
+Sharp Sword
